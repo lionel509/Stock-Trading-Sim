@@ -1,0 +1,11 @@
+body {
+    background-color: #121212;
+    color: #fff;
+    margin: 0;
+    font-family: sans-serif;
+  }
+  .app-container {
+    display: flex;
+    flex-direction: column;
+    padding: 1rem;
+  }
